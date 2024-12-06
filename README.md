@@ -3,7 +3,7 @@
 This project demonstrates a pipeline for fine-tuning a **Stable Diffusion** model bk-sdm-small to perform **image-to-image colorization**. It transforms grayscale images into colorized versions. The mentioned model is efficient and light weight. 
 ---
 ## About the Lightweight Stable diffusion model
-Used this model ([bk-sdm-small] https://huggingface.co/nota-ai/bk-sdm-small)
+Used this model [bk-sdm-small](https://huggingface.co/nota-ai/bk-sdm-small)
 
 Stable Diffusion models (SDMs) involves high computing demands due to billion-scale parameters.
 To enhance efficiency, recent studies have reduced sampling steps and
