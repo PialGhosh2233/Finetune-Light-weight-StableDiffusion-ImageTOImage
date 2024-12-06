@@ -1,4 +1,4 @@
-# Image-to-Image Colorization with Stable Diffusion  
+# Image-to-Image Colorization with Light weight Stable Diffusion model 
 
 This project demonstrates a pipeline for fine-tuning a **Stable Diffusion** model bk-sdm-small to perform **image-to-image colorization**. It transforms grayscale images into colorized versions. The mentioned model is efficient and light weight. 
 
