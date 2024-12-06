@@ -41,15 +41,11 @@ Dataset processing
 - Add support for additional tasks (e.g., sketch-to-image generation).  
 - Train the dataset with more large and diverse dataset.    
 ---
-## Acknowledgments  
-- [Hugging Face Diffusers Library](https://huggingface.co/docs/diffusers/)  
-- [PyTorch](https://pytorch.org/)  
-- [VGG-19 for Perceptual Loss](https://pytorch.org/vision/stable/models.html#torchvision.models.vgg19)
+#### Requirements:
+- Python 3.8+
+- GPUs with CUDA support
 
----
-
-## License  
-This project is licensed under the MIT License.  
 
 ---  
-Feel free to customize the description based on your specific needs or goals!
+
+Contributions are welcome to improve the model. 🚀
