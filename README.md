@@ -27,13 +27,8 @@ under limited resources: using only 13 A100 days and a tiny dataset, our
 
 compact models can imitate the original SDMs (v1.4 and v2.1-base with
 
-over 6,000 A100 days). Benefiting from the transferred knowledge, our BKSDMs deliver competitive results on zero-shot MS-COCO against larger
-
-multi-billion parameter models. We further demonstrate the applicability
-
-of our lightweight backbones in personalized generation and image-toimage translation. Deployment of our models on edge devices attains
-
-4-second inference
+over 6,000 A100 days). Benefiting from the transferred knowledge, our BKSDMs deliver competitive results on zero-shot MS-COCO against larger multi-billion parameter models. 
+We further demonstrate the applicability of our lightweight backbones in personalized generation and image-toimage translation. Deployment of our models on edge devices attains 4 second inference.
 
 ---
 ## About the dataset
